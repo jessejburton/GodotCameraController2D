@@ -13,11 +13,11 @@ export var is_use_noise:bool = true
 export var is_use_tween:bool = true
 export var is_use_rotation:bool = true
 export var is_use_offset:bool = true
+export var cool_down_speed:float = 0.5
+export var shake_speed:float = 0.05
 
 var current_camera:Camera2D = null
 var current_shake:float = 0.0
-var shake_speed:float = 0.05
-var cool_down_speed:float = 0.5
 
 var noise = OpenSimplexNoise.new()
 var noise_offset = 0
