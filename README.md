@@ -6,6 +6,7 @@
 1. About
 2. Setup
 3. Usage
+4. Contact
 
 ## 2. About
 Currently this camera controller only handles screen shake. I will be adding functionality for other effects related to zooming, panning etc.
@@ -78,6 +79,6 @@ When enabled the speed in which the camera travels is determined a shake_speed v
 
 By leaving the Shake Lock turned on you can set a shake using the key bindings and then turn functions on and off to see the differences. 
 
-### 5. Contact
+### 4. Contact
 
 ~ I'd love to hear if you use this Camera Controller in your project! Find me through www.burtonmediainc.com 
